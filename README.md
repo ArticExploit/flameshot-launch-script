@@ -7,7 +7,7 @@ The script launches a small GUI to choose from taking a local screenshot (save t
 IMPORTANT: the script needs flameshot, xclip and zenity, to run.
 ## Configuration and Deployment
 
-open the script in a text editor end change these variables to match your server and local pc
+open the script in a text editor and change these variables to match your server and local pc
 
 ```bash
   ...
