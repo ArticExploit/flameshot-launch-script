@@ -4,7 +4,7 @@ This is just a lil script I made to launch flameshot and add some functionality 
 
 The script launches a small GUI to choose from taking a local screenshot (save to clipboard, save to file, ecc.) or use the upload functionality.
 
-IMPORTANT: the script needs flameshot, xclip and zenity, to run.
+IMPORTANT: the script needs flameshot, xclip, zenity and scp, to run.
 ## Configuration and Deployment
 
 open the script in a text editor and change these variables to match your server and local pc
